@@ -13,8 +13,8 @@ int melody1[] = { NOTE_C5 };
 int melody2[] = { NOTE_C6, NOTE_C6, NOTE_C6, NOTE_C6};
 int duration = 1000;  // 500 miliseconds
 
-char ssid[] = "HChome";      // your network SSID (name)
-char pass[] = "0226322452";   // your network password
+char ssid[] = "Ninenight999";      // your network SSID (name)
+char pass[] = "nine99nin";   // your network password
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 
 int status = WL_IDLE_STATUS;
